@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Toll Calculator</title>
+	<style>
+		body {
+			background-color: #f0f0f0;
+			font-family: sans-serif;
+		}
+
+		form {
+			max-width: 500px;
+			margin: 0 auto;
+			padding: 20px;
+			background-color: #fff;
+			border: 1px solid #ccc;
+			box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+		}
+
+		h1 {
+			text-align: center;
+			margin-top: 0;
+		}
+
+		label {
+			display: block;
+			margin-bottom: 10px;
+			font-weight: bold;
+		}
+
+		input[type="text"],
+		select {
+			display: block;
+			padding: 8px;
+			margin-bottom: 20px;
+			width: 100%;
+			border: 1px solid #ccc;
+			border-radius: 4px;
+			box-sizing: border-box;
+		}
+
+		input[type="submit"] {
+			background-color: #4CAF50;
+			color: #fff;
+			padding: 10px;
+			border: none;
+			border-radius: 4px;
+			cursor: pointer;
+		}
+
+		input[type="submit"]:hover {
+			background-color: #3e8e41;
+		}
+
+		.result {
+			margin-top: 20px;
+			padding: 10px;
+			background-color: #eee;
+			border: 1px solid #ccc;
+			border-radius: 4px;
+		}
+	</style>
+</head>
+<body>
+	<form>
+		<h1>Toll Calculator</h1>
+		<fieldset>
+			<legend>Enter details:</legend>
+			<label for="entry-point">Entry Point:</label>
+			<select name="entry-point" id="entry-point">
+				<option value="">Select Entry Point</option>
+				<option value="point1">Point 1</option>
+			</select>
+			<label for="exit-point">Exit Point:</label>
+			<select name="exit-point" id="exit-point">
+				<option value="">Select Exit Point</option>
+				<option value="point2">Point 2</option>
+				<option value="point3">Point 3</option>
+				<option value="point4">Point 4</option>
+				<option value="point5">Point 5</option>
+			</select>
+			<label for="day-of-week">Day of Week:</label>
+			<select name="day-of-week" id="day-of-week">
+				<option value="">Select Day of Week</option>
+				<option value="monday">Monday</option>
+				<option value="tuesday">Tuesday</option>
+				<option value="wednesday">Wednesday</option>
+				<option value="thursday">Thursday</option>
+				<option value="friday">Friday</option>
+				<option value="saturday">Saturday</option>
+				<option value="sunday">Sunday</option>
+			</select>
+			<label for="number-plate">Number Plate (LLL-NNN):</label>
+			<input type="text" name="number-plate" id="number-plate" placeholder="e.g. ABC-123">
+		
+			<input type="submit" value="Calculate">
+			<div class="result">
+				<!-- result will be displayed here -->
+			</div>
+		</fieldset>
+	</form>
+</body>
+</html>
