@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 fisforfaheem/mern_toll_tax_UI_and_backend is built on the following main stack:
+
 - [Segment](https://segment.com/?utm_medium=paid-display&utm_source=stackshare&utm_campaign=analytics) – Analytics Integrator
 - [Chartio](https://chartio.com) – Business Intelligence
 - [Coveralls](https://coveralls.io/) – Code Coverage
@@ -50,11 +51,13 @@ fisforfaheem/mern_toll_tax_UI_and_backend is built on the following main stack:
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 fisforfaheem/mern_toll_tax_UI_and_backend is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/5/default_aa447805966bbb635af0d113e93e1f1030497052.jpg' alt='Segment'/> [Segment](https://segment.com/?utm_medium=paid-display&utm_source=stackshare&utm_campaign=analytics) – Analytics Integrator
 - <img width='25' height='25' src='https://img.stackshare.io/service/9/TtrFaQ3j_400x400.png' alt='Chartio'/> [Chartio](https://chartio.com) – Business Intelligence
 - <img width='25' height='25' src='https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png' alt='Coveralls'/> [Coveralls](https://coveralls.io/) – Code Coverage
@@ -103,14 +106,15 @@ fisforfaheem/mern_toll_tax_UI_and_backend is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [fisforfaheem/mern_toll_tax_UI_and_backend](https://github.com/fisforfaheem/mern_toll_tax_UI_and_backend)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|327<br/>Tools used|11/10/23 <br/>Report generated|
+|332<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -625,9 +629,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (268)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (273)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (268)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (273)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -673,6 +677,7 @@ Full tech stack [here](/techstack.md)
 |[bytes](https://www.npmjs.com/bytes)|N/A|03/19/23|Faheem Ahmad |MIT|N/A|
 |[cac](https://www.npmjs.com/cac)|N/A|03/19/23|Faheem Ahmad |MIT|N/A|
 |[chai-subset](https://www.npmjs.com/chai-subset)|N/A|03/19/23|Faheem Ahmad |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|N/A|03/19/23|Faheem Ahmad |MIT|N/A|
 |[chokidar](https://www.npmjs.com/chokidar)|N/A|03/19/23|Faheem Ahmad |MIT|N/A|
 |[cli](https://www.npmjs.com/cli)|N/A|03/19/23|Faheem Ahmad |MIT|N/A|
 |[co](https://www.npmjs.com/co)|N/A|03/19/23|Faheem Ahmad |MIT|N/A|
@@ -749,6 +754,7 @@ Full tech stack [here](/techstack.md)
 |[http](https://www.npmjs.com/http)|N/A|03/19/23|Faheem Ahmad |BSD-2-Clause|N/A|
 |[http-errors](https://www.npmjs.com/http-errors)|N/A|03/19/23|Faheem Ahmad |MIT|N/A|
 |[https](https://www.npmjs.com/https)|N/A|03/19/23|Faheem Ahmad |ISC|N/A|
+|[husky](https://www.npmjs.com/husky)|N/A|03/19/23|Faheem Ahmad |MIT|N/A|
 |[i](https://www.npmjs.com/i)|N/A|03/19/23|Faheem Ahmad |MIT|N/A|
 |[iconv](https://www.npmjs.com/iconv)|N/A|03/19/23|Faheem Ahmad |ISC|N/A|
 |[iconv-lite](https://www.npmjs.com/iconv-lite)|N/A|03/19/23|Faheem Ahmad |MIT|N/A|
@@ -775,6 +781,7 @@ Full tech stack [here](/techstack.md)
 |[kind-of](https://www.npmjs.com/kind-of)|N/A|03/19/23|Faheem Ahmad |MIT|N/A|
 |[lab](https://www.npmjs.com/lab)|N/A|03/19/23|Faheem Ahmad |BSD-3-Clause|N/A|
 |[level](https://www.npmjs.com/level)|N/A|03/19/23|Faheem Ahmad |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|N/A|03/19/23|Faheem Ahmad |MIT|N/A|
 |[log](https://www.npmjs.com/log)|N/A|03/19/23|Faheem Ahmad |ISC|N/A|
 |[markdown](https://www.npmjs.com/markdown)|N/A|03/19/23|Faheem Ahmad |MIT|N/A|
 |[marked](https://www.npmjs.com/marked)|N/A|03/19/23|Faheem Ahmad |MIT|N/A|
@@ -847,6 +854,7 @@ Full tech stack [here](/techstack.md)
 |[safe-buffer](https://www.npmjs.com/safe-buffer)|N/A|03/19/23|Faheem Ahmad |MIT|N/A|
 |[safe-publish-latest](https://www.npmjs.com/safe-publish-latest)|N/A|03/19/23|Faheem Ahmad |MIT|N/A|
 |[seedrandom](https://www.npmjs.com/seedrandom)|N/A|03/19/23|Faheem Ahmad |MIT|N/A|
+|[semantic-release](https://www.npmjs.com/semantic-release)|N/A|03/19/23|Faheem Ahmad |MIT|N/A|
 |[send](https://www.npmjs.com/send)|N/A|03/19/23|Faheem Ahmad |MIT|N/A|
 |[serve](https://www.npmjs.com/serve)|N/A|03/19/23|Faheem Ahmad |MIT|N/A|
 |[serve-static](https://www.npmjs.com/serve-static)|N/A|03/19/23|Faheem Ahmad |MIT|N/A|
@@ -871,6 +879,7 @@ Full tech stack [here](/techstack.md)
 |[tar](https://www.npmjs.com/tar)|N/A|03/19/23|Faheem Ahmad |ISC|N/A|
 |[temp](https://www.npmjs.com/temp)|N/A|03/19/23|Faheem Ahmad |MIT|N/A|
 |[terser](https://www.npmjs.com/terser)|N/A|03/19/23|Faheem Ahmad |BSD-2-Clause|N/A|
+|[test](https://www.npmjs.com/test)|N/A|03/19/23|Faheem Ahmad |MIT|N/A|
 |[text-table](https://www.npmjs.com/text-table)|N/A|03/19/23|Faheem Ahmad |MIT|N/A|
 |[touch](https://www.npmjs.com/touch)|N/A|03/19/23|Faheem Ahmad |ISC|N/A|
 |[tsd](https://www.npmjs.com/tsd)|N/A|03/19/23|Faheem Ahmad |MIT|N/A|
@@ -903,4 +912,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
